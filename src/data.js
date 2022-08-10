@@ -24,7 +24,7 @@ export default [
         breed: "black and white medium hair",
         animalType: "cat",
         adoption: "2016",
-        description: "Gwen is a persnickety and particular. Her favorite person is her dad. She loves drinking straight from the facet.",
+        description: "Gwen is persnickety and particular. She likes long cat naps and scratching things--including hands. Her favorite person is her dad. She loves drinking straight from the facet.",
         imageUrl: "Gwen.jpg"
     },
     {
