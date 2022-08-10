@@ -34,7 +34,7 @@ export default [
         animalType: "cat",
         adoption: "2020",
         description: "Gingie is a snuggly, playful cat. She's extremely rude to her sister. Her favorite things are laying on laps at inopportune times and purring so loud you can hear her across the room.",
-        imageUrl: "GIngie.jpg"
+        imageUrl: "Gingie.jpg"
     }
 
 ]
